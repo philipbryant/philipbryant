@@ -11,13 +11,13 @@ html {
 body {
   /* padding: 100px; */
   background: #fff;
-  color: #393939;
+  color: #A49CB8;
   font-family: 'Oxygen';
   font-size: 12pt;
   line-height: 22pt;
   letter-spacing: 1px;
   min-height: 100%;
-  border-left: 15px solid #3cc8ff;
+  border-left: 15px solid #E67C3F;
 }
 
 #wrapper {
