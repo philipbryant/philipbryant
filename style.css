@@ -62,10 +62,8 @@ a:hover {
   font-style: italic;
 }
 
-ul {
-  list-style: none;
-  margin: 0;
-}
+
 li {
-  float: left;
+  display: inline;
+  margin: 0 20px;
 }
