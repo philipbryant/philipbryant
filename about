@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang='en-US'>
+<head>
+  <title>Philip Bryant - About Me</title>
+  
+   <meta name="description" content="I am so lost I have no idea what im doing" />
+</head>
+
+<bod>
+  <div id='wrapper'>
+  <h1>I am a boss </h1>
+  <p> This is really probably not going to work, but after a lot of playing around hopefully i can get something half decent.</p>
+  
+  <h2>How do line breaks work?</h2>
+  <p> Maybe I should actually read the Markdown documentation</p>
