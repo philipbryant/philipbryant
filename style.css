@@ -62,6 +62,10 @@ a:hover {
   font-style: italic;
 }
 
+nav.padding {
+  padding-left:500px;
+}
+
 ul.padding {
   padding-left:500px;
 }
