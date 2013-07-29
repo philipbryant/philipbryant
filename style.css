@@ -66,6 +66,10 @@ nav.padding {
   text-align:center; 
 }
 
+wrapper.padding {
+  text-align:center;
+}
+
 ul.padding {
   padding-left:500px;
 }
