@@ -67,6 +67,10 @@ nav.padding {
   text-align:center; 
 }
 
+body.padding {
+  text-align:center;
+}
+
 wrapper.padding {
   text-align:center;
 }
